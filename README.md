@@ -36,14 +36,14 @@ The analysis merges three key datasets covering 400 user accounts and 918 suppor
 
 | Subscription Plan | Total Accounts | Churned Accounts | Churn Rate (%) | Variance vs. Baseline | Risk Status |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Free** | 105 | 43 | **40.95%** | **+12.45%** | 🔴 High Risk |
-| **Enterprise** | 92 | 24 | **26.09%** | **-2.41%** | 🟡 Stable |
-| **Basic** | 118 | 28 | **23.73%** | **-4.77%** | 🟢 Stable |
-| **Pro** | 85 | 19 | **22.35%** | **-6.15%** | 🟢 Lowest Risk |
+| **Free** | 105 | 43 | **40.95%** | **+12.45%** | High Risk |
+| **Enterprise** | 92 | 24 | **26.09%** | **-2.41%** | Stable |
+| **Basic** | 118 | 28 | **23.73%** | **-4.77%** | Stable |
+| **Pro** | 85 | 19 | **22.35%** | **-6.15%** | Lowest Risk |
 
 ---
 
-## 🎯 Proposed Business KPI & SLA Framework
+## Proposed Business KPI & SLA Framework
 
 To align Support, Customer Success, and Product teams on retention, I define the primary operational KPI as:
 
